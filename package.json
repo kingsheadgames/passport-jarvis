@@ -1,0 +1,31 @@
+{
+  "name": "passport-jarvis",
+  "version": "0.0.1",
+  "description": "Magic Pixel Games social id based authentication strategy",
+  "author": {
+    "name": "Michael Seegers",
+    "email": "michael@magicpixelgames.com",
+    "url": "http://www.magicpixelgames.com"
+  },
+  "main": "./lib/passport-jarvis",
+  "dependencies": {
+    "pkginfo": "0.2.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authn",
+    "authentication",
+	  "uuid",
+    "gamecenter",
+    "facebook"
+  ],
+  "_id": "passport-jarvis@0.0.1",
+  "_from": "passport-jarvis@0.0.1"
+}
